@@ -1,0 +1,203 @@
+{
+    "about": {
+        "history": "DJS NSS, the NSS unit of Dwarkadas J. Sanghvi College of Engineering, started in 2005.",
+        "mission": "Foster all-round development of society, addressing socio-economic problems and sustainability crises.",
+        "activities": "Regular meetings, organizing events, rural outreach, personal growth opportunities.",
+        "impact": {
+            "events_organized": 50,
+            "lives_impacted": 5000,
+            "volunteer_hours": 1000,
+            "active_volunteers": 200
+        }
+    },
+    "events": [
+        {
+            "title": "Grain-a-thon",
+            "tagline": "Our small actions, others' huge aid",
+            "description": "Food donation drive held at DJ Sanghvi College to raise awareness about food insecurity.",
+            "scale": "Large",
+            "location": "DJ Sanghvi College",
+            "date": "17th Oct - 18th Oct 2024"
+        },
+        {
+            "title": "NSS Camp",
+            "tagline": "A camp to remember",
+            "description": "Week-long camp at Dahanu with cleanliness drives, education outreach, medical camp, sustainability efforts, and cultural programs.",
+            "scale": "Large",
+            "location": "Dahanu",
+            "date": "21st Jan - 28th Jan 2025"
+        },
+        {
+            "title": "Blood Donation Drive",
+            "tagline": "Donate blood, save lives",
+            "description": "Organized with Red Cross Society, over 100 volunteers donated blood and learned about myths & facts of blood donation.",
+            "scale": "Large",
+            "location": "DJ Sanghvi College",
+            "date": "4th March 2025"
+        },
+        {
+            "title": " Cell Donation Drive",
+            "tagline": "Be a hero, save a life",
+            "description": "Collaboration with DATRI registry. Record-breaking 560 swabs collected to support patients with life-threatening diseases.",
+            "scale": "Large",
+            "location": "DJ Sanghvi College",
+            "date": "16th Aug 2024"
+        },
+        {
+            "title": "Annual Charity Drive",
+            "tagline": "Shaping India's futures",
+            "description": "Raised Rs 75,000 to support NGOs for specially-abled children, showcased handmade crafts and cultural programs.",
+            "scale": "Large",
+            "location": "DJ Sanghvi College",
+            "date": "20th Feb - 24th Feb 2024"
+        },
+        {
+            "title": "Tree Plantation",
+            "tagline": "Planting trees, planting hope",
+            "description": "Tree plantation at Aarey Colony, Mumbai West.",
+            "scale": "Medium",
+            "location": "Aarey Colony, Mumbai West",
+            "date": "28th June 2025"
+        },
+        {
+            "title": "Voter Registration Drive",
+            "tagline": "Your vote, your voice",
+            "description": "Over 300 students registered, interactive sessions to spread awareness about voting rights.",
+            "scale": "Medium",
+            "location": "DJ Sanghvi College",
+            "date": "15th Sep 2024"
+        },
+        {
+            "title": "Newspaper Collection Drive",
+            "tagline": "Recycle today for a better tomorrow",
+            "description": "World Environment Day initiative to promote recycling and sustainability by collecting old newspapers.",
+            "scale": "Medium",
+            "location": "DJ Sanghvi College",
+            "date": "5th June 2024"
+        },
+        {
+            "title": "Independence Day Rally",
+            "tagline": "Celebrating freedom with unity",
+            "description": "Patriotic rally with march, speeches, cultural programs, and flag-hoisting ceremony.",
+            "scale": "Large - University Level",
+            "location": "DJ Sanghvi College",
+            "date": "15th Aug 2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Solar Light Installation - Narpad Village",
+            "subtitle": "Illuminating Narpad with Solar Power",
+            "description": "On January 29, 2024, DJS NSS successfully installed solar street lights in Narpad village, Dahanu. This initiative aimed at providing sustainable lighting solutions to improve safety and accessibility for the villagers. The project reinforced the importance of renewable energy in rural development and enhanced the quality of life for the local community.",
+            "scale": "Medium",
+            "location": "Narpad Village, Dahanu",
+            "date": "2024-01-29"
+        },
+        {
+            "title": "Solar Light Installation - Waki Village",
+            "subtitle": "Enhancing Safety & Navigation with Solar Lights",
+            "description": "In Waki village, DJS NSS installed four strategically placed solar lights to improve safety and road maneuverability. This initiative addressed the need for well-lit pathways, reducing accidents and enhancing the overall security of the residents. The installation was a crucial step toward sustainable infrastructure in the region.",
+            "scale": "Medium",
+            "location": "Waki Village",
+            "date": "2025-01-26"
+        },
+        {
+            "title": "Water Pump Installation - Ambewadi",
+            "subtitle": "Providing Reliable Water Access",
+            "description": "In 2019, DJS NSS undertook a project to install a water pump system to draw water from a well, benefiting the villagers of Ambewadi, Dahanu. This project aimed at providing a sustainable water source for daily needs, reducing the villagers' dependence on manual water collection. It significantly improved water accessibility and contributed to better living conditions in the community.",
+            "scale": "Large",
+            "location": "Ambewadi, Dahanu",
+            "date": "2019-01-01"
+        }
+    ],
+    "volunteer": {
+        "overview": {
+            "title": "Volunteer with Us",
+            "description": "Join our dedicated team of volunteers and be a driving force for meaningful transformation. Together, we can forge a brighter future."
+        },
+        "impact": {
+            "title": "Make an Impact",
+            "description": "By offering your time, skills, and unwavering passion, you can make a profound impact on our community and inspire positive change.",
+            "benefits_summary": "Make a difference while gaining valuable skills and experiences"
+        },
+        "benefits": [
+            "Develop leadership and teamwork skills",
+            "Gain hands-on experience in various fields",
+            "Enhance your resume and career prospects",
+            "Build a network of like-minded individuals",
+            "Receive certificates and awards for your contributions"
+        ],
+        "why_volunteer": [
+            "Enhance personal and professional skills",
+            "Build meaningful connections",
+            "Gain valuable experience",
+            "Receive recognition for your efforts"
+        ],
+        "how_to_get_involved": [
+            "Sign up for volunteer programs",
+            "Participate in community outreach",
+            "Join special projects and initiatives",
+            "Attend orientation and training sessions"
+        ],
+        "policy": {
+            "introduction": "The National Service Scheme (NSS) is a program designed to develop the personality and leadership qualities of students through community service. Volunteers are expected to dedicate their time to meaningful work that impacts local communities directly, fostering a sense of social responsibility.",
+            "hours_allotment": [
+                "Each NSS volunteer must complete a minimum of 120 hours per year for two years.",
+                "Activities include work in villages or slums, either after study hours or weekends.",
+                "Participation in a 7-day Special Camp is mandatory once in two years.",
+                "Volunteers may assist in additional community-driven events as needed."
+            ],
+            "responsibilities": [
+                "Conduct surveys in adopted villages/slums to identify and address issues.",
+                "Implement programs related to literacy, health, nutrition, and environmental conservation.",
+                "Support disaster relief and rescue operations during national calamities.",
+                "Promote community engagement to enhance public awareness."
+            ]
+        },
+        "impact_statement": "NSS volunteers contribute to better living conditions, improved public health, and awareness of critical issues. Their efforts bring personal growth and a sense of accomplishment.",
+        "application_process": [
+            "Apply online through the website or visit the NSS office at respective institutions.",
+            "Fill out the form.",
+            "Attend an orientation session.",
+            "Complete a brief interview."
+        ]
+    },
+    "faq": [
+        {
+            "question": "Is Volunteer Registration free?",
+            "answer": "Yes, Volunteer Registration is free. All the NSS events are absolutely free. 🎉"
+        },
+        {
+            "question": "How many volunteers will be selected?",
+            "answer": "We take in around 200 volunteers, with 140 spots reserved for second-year students (SEs). Selection is on a first-come, first-served basis, so make sure to register on Friday! Co-com members will be chosen from the 140 SE volunteers. To apply for Co-com, register on Friday and attend interviews on Saturday. Co-com departments include Creatives, Technical, Publicity, and Editorial."
+        },
+        {
+            "question": "What are our flagship events?",
+            "answer": "The Blood Donation Drive 🩸 and the 7-Day Camp 🏕 are our flagship events!"
+        },
+        {
+            "question": "Is CSR connected to NSS?",
+            "answer": "No, CSR and NSS are completely separate entities."
+        },
+        {
+            "question": "How is NSS different from other committees?",
+            "answer": "NSS events push you out of your comfort zone, helping you build connections across various departments. It helps you discover abilities you never knew you had."
+        },
+        {
+            "question": "What unique benefits does NSS offer that other committees don’t?",
+            "answer": "After completing 120 hours of service, you earn an additional 10 marks. Complete 240 hours, and you’ll receive a National-level certificate with our emblem, which is great for placements and higher studies, making you stand out from the crowd. 🎓✨"
+        },
+        {
+            "question": "How frequently do events happen?",
+            "answer": "We organize around 3-4 events per month. 📅"
+        },
+        {
+            "question": "Is it difficult to complete 120 hours of service?",
+            "answer": "Not at all! The 120 hours can be easily completed throughout your tenure in NSS. 💪"
+        },
+        {
+            "question": "What’s the difference between a Volunteer and a Co-com member?",
+            "answer": "As a volunteer, you simply participate in events. But as a Co-com member, you have a say in planning and executing events. You can propose new ideas 💡, make decisions, and have your voice heard in shaping the events."
+        }
+    ]
+}
