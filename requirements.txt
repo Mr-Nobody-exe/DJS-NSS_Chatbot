@@ -5,3 +5,6 @@ transformers
 huggingface_hub
 fastapi
 uvicorn
+langchain_community
+langchain_huggingface
+hf_xet
