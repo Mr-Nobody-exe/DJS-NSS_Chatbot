@@ -1,0 +1,3 @@
+OPENAI_API_KEY = "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"
+EMBEDDING_MODEL = "text-embedding-3-small"
+LLM_MODEL = "gpt-4-turbo"

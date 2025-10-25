@@ -1,21 +1,17 @@
-from langchain.prompts import PromptTemplate # type: ignore
-def create_prompt(context: str, query: str) -> str:
-    prompt = f"""
-You are a helpful, polite assistant. Based on the information below, please:
+from langchain.prompts import PromptTemplate
 
-- Provide a clear and concise answer.
-- Rephrase or combine related facts smoothly.
-- Break down long or complex information into easy-to-read sentences.
-- Use polite conversational cues and transitions.
-- If the information is incomplete or not available, say so politely.
-- Encourage the user to ask follow-up questions if needed.
+def create_prompt():
+    template = """
+You are NSSBot, the official assistant for DJS NSS.
+Use the retrieved NSS data below to answer questions.
+If you cannot find an answer in the context, say "I’m not sure, please contact the NSS coordinator."
 
-Information:
+Context:
 {context}
 
 Question:
-{query}
+{question}
 
 Answer:
 """
-    return prompt
+    return PromptTemplate(input_variables=["context", "question"], template=template)
