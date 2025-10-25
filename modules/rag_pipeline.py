@@ -1,4 +1,4 @@
-from modules.retriever import RetrieverBuilder
+from modules.retriever import build_retriever as RetrieverBuilder
 from modules.llm_wrapper import load_llm
 from modules.prompt_engineering import create_nss_prompt
 from modules.agent_router import route_query
@@ -8,7 +8,7 @@ from langchain.chains import LLMChain
 
 class NSSRAGPipeline:
     def __init__(self):
-        self.retriever = RetrieverBuilder().load_retriever()
+        self.retriever = RetrieverBuilder().build
         self.llm = load_llm()
         self.prompt = create_nss_prompt()
         self.memory = get_memory()

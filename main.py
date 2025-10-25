@@ -8,5 +8,5 @@ if __name__ == "__main__":
         query = input("You: ")
         if query.lower() in ["exit", "quit"]:
             break
-        answer = rag.run(query)
+        answer = rag.answer_query(query)
         print(f"NSSBot: {answer}\n")

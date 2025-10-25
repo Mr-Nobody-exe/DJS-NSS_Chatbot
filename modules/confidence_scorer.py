@@ -17,5 +17,5 @@ class ConfidenceScorer:
         
         context_vec = self.embeddings.embed_query(context)
         response_vec = self.embeddings.embed_query(response)
-        similarity = cosine_similarity([context_vec], [response_vec])[0][0]
+        similarity = cosine_similarity([context_vec], [response_vec])[0][0] # type: ignore
         return round(float(similarity), 3)

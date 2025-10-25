@@ -8,3 +8,4 @@ uvicorn
 langchain_community
 langchain_huggingface
 hf_xet
+langchain_openai
