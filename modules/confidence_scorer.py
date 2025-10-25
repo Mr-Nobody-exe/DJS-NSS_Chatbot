@@ -2,10 +2,14 @@ from langchain_community.embeddings import OpenAIEmbeddings
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 from config import OPENAI_API_KEY, EMBEDDING_MODEL
+import os
+os.environ.setdefault("OPENAI_API_KEY", OPENAI_API_KEY)
 
 class ConfidenceScorer:
     def __init__(self):
-        self.embeddings = OpenAIEmbeddings(model=EMBEDDING_MODEL, openai_api_key=OPENAI_API_KEY)
+        # ensure OpenAI key is available to the embeddings implementation which reads from environment variables
+
+        self.embeddings = OpenAIEmbeddings(model=EMBEDDING_MODEL)
 
     def compute_confidence(self, context: str, response: str) -> float:
         """
